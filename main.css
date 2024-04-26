@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    cursor: pointer;
+}
+.display-bg-dark {
+    background-color: black;
+    overflow: hidden;
+}
+
+.display-green-tex {
+    color: green;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.display-white-tex {
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    
+}
+.igual{
+    height: 178px;
+    font-size: 40px;
+    font-weight: 900;
+}
